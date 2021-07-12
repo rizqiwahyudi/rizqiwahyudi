@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Rizqi Wahyudi | Facebook" target="_blank">
 </a>
 
-<a href="https://www.instagram.com/yudi.brother_44/">
+<a href="https://www.instagram.com/rizqi_wahyudi.57/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Rizqi Wahyudi | Instagram" target="_blank">
 </a>
 
