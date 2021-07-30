@@ -36,4 +36,4 @@
 <br/><br/>
 ## Contributions
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rizqiwahyudi&theme=xcode&area=true" />
+[![contributions](https://activity-graph.herokuapp.com/graph?username=rizqiwahyudi&theme=xcode&area=true)](https://github.com/rizqiwahyudi)
