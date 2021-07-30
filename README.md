@@ -1,7 +1,7 @@
 <b> Hi there! 👋 </b>
 
 <p>  Hi, I'm Rizqi Wahyudi </p>
-  <p> I'm an IT & Cyber Security Enthusiasts from Indonesia.</p>
+  <p> I'm IT & Cyber Security Enthusiast from Indonesia.</p>
     <p> If you need something from me, feel free to contact me at : </p>
       <p> ⬇️⬇️⬇️ </p>
 
