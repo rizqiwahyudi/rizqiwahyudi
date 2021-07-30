@@ -32,3 +32,8 @@
 ## Achievement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizqiwahyudi&theme=juicyfresh&no-bg=false)](https://github.com/rizqiwahyudi)
+
+<br/><br/>
+## Contributions
+
+<img src="https://activity-graph.herokuapp.com/graph?username=rizqiwahyudi&theme=xcode&area=true" />
