@@ -35,4 +35,4 @@
 <br/><br/>
 ## Contributions
 
-[![contributions](https://activity-graph.herokuapp.com/graph?username=rizqiwahyudi&theme=xcode&area=true)](https://github.com/rizqiwahyudi)
+[![contributions](https://github-readme-activity-graph.vercel.app/graph?username=rizqiwahyudi&theme=xcode&area=true)](https://github.com/rizqiwahyudi)
