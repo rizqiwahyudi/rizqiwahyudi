@@ -30,7 +30,7 @@
 
 <br><br>
 ## Achievement
-[![trophy](https://github-profile-trophy.vercel.app/?username=rizqiwahyudi&theme=onedark&no-bg=false)](https://github.com/rizqiwahyudi/rizqiwahyudi)
+[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=rizqiwahyudi&theme=onedark&no-bg=false)](https://github.com/rizqiwahyudi/rizqiwahyudi)
 
 <br/><br/>
 ## Contributions
