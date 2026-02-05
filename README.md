@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rizqiwahyudi&label=Profile%20views&color=0e75b6&style=flat" alt="rizqiwahyudi" /> </p>
+
 <b> Hi there! 👋 </b>
 
 <p>  Hi, I'm Rizqi Wahyudi </p>
